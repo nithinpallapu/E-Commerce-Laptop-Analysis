@@ -27,5 +27,5 @@ This project uses Python to scrape laptop listings from Amazon India, clean the 
 - `Cleaned_AmazonData_For_Visualization.csv`: Final dataset
 - `requirements.txt`: Python libraries used
 
-## 👤 Author
+## Author
 Pallapu Nithin
