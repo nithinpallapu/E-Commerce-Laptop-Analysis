@@ -1,4 +1,4 @@
-# Amazon Laptop Market Analysis via Web Scraping and EDA
+# E-Commerce Laptop Market Analysis via Web Scraping and EDA
 
 This project uses Python to scrape laptop listings from Amazon India, clean the data, and perform exploratory data analysis (EDA) to uncover pricing trends and feature correlations.
 
